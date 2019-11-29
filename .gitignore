@@ -1,0 +1,10 @@
+# Neste, contém os arquivos que não serão versionados.
+
+# Arquivos do PHPStorm.
+.idea/*
+.idea/
+
+# Arquivos do vscode.
+.vscode/
+.vscode/*
+
